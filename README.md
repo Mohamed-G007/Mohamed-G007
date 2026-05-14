@@ -10,7 +10,7 @@
   <a href="mailto:mohamedgamalm55744@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Mohamed-Gamal">
+  <a href="https://www.linkedin.com/in/mohamed-gamal-zakaria">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mohamed-G007">
@@ -131,7 +131,7 @@ Algorithms & DSA        ██████████████░░░░�
   <a href="mailto:mohamedgamalm55744@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Mohamed-Gamal">
+  <a href="https://www.linkedin.com/in/mohamed-gamal-zakaria">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mohamed-G007">
